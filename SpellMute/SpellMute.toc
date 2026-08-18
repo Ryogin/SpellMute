@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: SpellMute
+## Notes: Hides red spell errors while preserving native yellow quest progress messages.
+## Author: Ryogin
+## Version: 1.0
+
+SpellMute.lua
