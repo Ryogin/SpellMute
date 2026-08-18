@@ -1,4 +1,4 @@
--- SpellMute 1.0 - Turtle WoW / WoW 1.12.1
+-- SpellMute 1.0 - World of Warcraft Vanilla 1.12.1
 -- Keeps UI_INFO_MESSAGE (yellow quest progress) while muting UI_ERROR_MESSAGE
 -- such as cooldown, mana, range, and invalid-target spell errors.
 
